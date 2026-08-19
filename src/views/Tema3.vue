@@ -189,7 +189,7 @@
                   p.mb-0 >= (<b>mayor o igual</b>): verifica si un valor es mayor o igual a otro, combinando igualdad y superioridad.
                 li.mb-0
                   i.fas.fa-circle.item(style="top: 8px;")
-                  p.mb-0 <= (<b>menor o igual</b>): evalúa si un valor es menor o igual a otro, integrando igualdad y inferioridad.
+                  p.mb-0 <= (<b>menor o igual</b>): evalúa si un valor es menor o igual a otro, integrando igualdad e inferioridad.
             .cajon.C08.px-4.py-2.mb-0.sql-color
               p.mb-0 
                 span.sql-purple SELECT * FROM 
