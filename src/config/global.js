@@ -316,7 +316,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -330,8 +330,8 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Experto temático',
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -345,12 +345,17 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Jose Yobani Penagos Mora',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
           nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Manuel Felipe Echavarria Orozco',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -367,6 +372,11 @@ export default {
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'María Fernanda Pineda Mora',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

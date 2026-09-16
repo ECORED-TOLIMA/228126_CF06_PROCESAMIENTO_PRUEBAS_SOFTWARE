@@ -16,7 +16,7 @@
           img(src='@/assets/curso/tema5/img01.svg', alt='')
     .row.justify-content-center.mb-0
       .col-lg-8.col-12
-        .tarjeta.tarjeta--C05.p-4.mb-0
+        .tarjeta.tarjeta--C15.p-4.mb-0
           p.text-center.mb-0(data-aos="fade-down") La ausencia de políticas de seguridad y respaldo puede generar pérdidas irreversibles de información. 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -25,7 +25,7 @@
     p.mb-4(data-aos="fade-down") A continuación, se presentan las principales sentencias utilizadas para administrar permisos en SQL con sus respectivos ejemplos aplicados, las cuales permiten asignar o retirar privilegios sobre objetos de la base de datos de forma controlada y segura:
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
-        .cajon.C01.px-4.py-3.h-100.w-100
+        .tarjeta--C09.px-4.py-3.h-100.w-100
           .row.justify-content-center.mb-4
             .col.col-12
               .row.align-items-center(data-aos="flip-down")
@@ -97,7 +97,7 @@
         p.text-center(data-aos="fade-down") Acceso total.
     .row.justify-content-center.mb-0
       .col-lg-8.col-12
-        .tarjeta.tarjeta--C05.p-4.mb-0
+        .tarjeta.tarjeta--C15.p-4.mb-0
           p.text-center.mb-0(data-aos="fade-down") Un mal manejo de permisos puede comprometer la seguridad de toda la base de datos.
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -112,7 +112,7 @@
               h4 Pruebas de <em>scripts</em> de definición
               p Estas pruebas se centran en verificar que los <em>scripts</em> utilizados para crear y modificar la base de datos se ejecuten correctamente y sin errores. Evalúan la correcta definición de tablas, campos, tipos de datos, claves primarias, claves foráneas y restricciones, asegurando que la estructura de la base de datos se ajuste al diseño establecido.
               p Acciones:
-              .cajon.cajon.C01.px-4.py-3.mb-0
+              .tarjeta--C09.px-4.py-3.mb-0
                 ul.lista-ul
                   li.mb-0(style="color: #FFD453")
                     i.fas.fa-circle(style="top: 8px;")
@@ -128,7 +128,7 @@
               h4 Pruebas de integridad de datos
               p Este tipo de pruebas valida que la información almacenada cumpla con las reglas de negocio y restricciones definidas, como valores obligatorios, rangos permitidos y formatos correctos. Su objetivo es evitar el ingreso de datos erróneos o inconsistentes que puedan afectar los procesos y la toma de decisiones.
               p Acciones:
-              .cajon.cajon.C01.px-4.py-3.mb-0
+              .tarjeta--C09.px-4.py-3.mb-0
                 ul.lista-ul
                   li.mb-0(style="color: #FFD453")
                     i.fas.fa-circle(style="top: 8px;")
@@ -144,7 +144,7 @@
               h4 Pruebas de integridad referencial
               p Estas pruebas garantizan la coherencia entre las relaciones de las tablas, verificando que las claves foráneas correspondan a registros válidos en las tablas relacionadas. De esta manera, se previene la existencia de registros huérfanos y se asegura la consistencia lógica de la información dentro del sistema.
               p Acciones:
-              .cajon.cajon.C01.px-4.py-3.mb-0
+              .tarjeta--C09.px-4.py-3.mb-0
                 ul.lista-ul
                   li.mb-0(style="color: #FFD453")
                     i.fas.fa-circle(style="top: 8px;")
@@ -221,19 +221,19 @@
         p.mb-0(data-aos="fade-down") La aplicación de buenas prácticas en la gestión de copias de seguridad es fundamental para garantizar la protección, disponibilidad y recuperación oportuna de la información. Estas prácticas permiten reducir riesgos operativos, prevenir pérdidas de datos y asegurar que los respaldos sean confiables y funcionales cuando se requieran. A continuación, se presentan algunas recomendaciones esenciales que fortalecen la administración adecuada de los procesos de <em>backup</em>:
     .row.justify-content-center.align-items-stretch.mb-4
       .col-lg-6.col-12.order-lg-2.order-2
-        .cajon.C01.p-4.mb-4
+        .tarjeta--C09.p-4.mb-4
           ul.lista-ul.mb-0(data-aos="fade-down")
             li(style="color: #FFB851")
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 Realizar copias periódicas.
             li(style="color: #FFB851")
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 Almacenar respaldos en ubicaciones externas.
             li(style="color: #FFB851")
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 Verificar la integridad de los respaldos.
             li.mb-0(style="color: #FFB851")
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 Automatizar procesos de <em>backup</em>.
         p.mb-0(data-aos="fade-down") La implementación de mecanismos de seguridad, pruebas y respaldo en bases de datos es fundamental para garantizar la integridad, disponibilidad y confidencialidad de la información. Estas prácticas no solo previenen pérdidas de datos, sino que también fortalecen la confiabilidad de los sistemas y permiten una recuperación efectiva ante cualquier eventualidad.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
