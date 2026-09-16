@@ -7,7 +7,7 @@
         span 4
       h1 Gestión de bases de datos NoSQL
     p.mb-4(data-aos="fade-down") La gestión de bases de datos NoSQL representa una evolución en la forma de almacenar y procesar información, especialmente en entornos donde los datos crecen de manera exponencial y presentan estructuras no uniformes. A diferencia de los sistemas relacionales tradicionales, las bases de datos NoSQL están diseñadas para ofrecer alta escalabilidad, flexibilidad y rendimiento en escenarios de gran volumen de información.
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#19538D !important")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#D5AAFF !important")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img01.jpg')})`}"
       )
@@ -315,16 +315,16 @@
           p.mb-4(data-aos="fade-down") Las consultas pueden incluir operadores:
           ul.lista-ul--color.mb-4(data-aos="fade-down")
             li.mb-2
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 $gt (mayor que).
             li.mb-2
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 $lt (menor que).
             li.mb-2
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 $and.
             li.mb-0
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 $or.
           p.mb-4(data-aos="fade-down") Ejemplo (JavaScrip):
           .cajon.C08.px-4.py-3.mb-3.sql-color
@@ -350,7 +350,7 @@
           img(src='@/assets/curso/tema4/img17.svg', alt='Imagen decorativa')
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
-        .cajon.cajon.C11.color-secundario.p-4.mb-0
+        .cajon.cajon.C01.color-primario.p-4.mb-0
           p.mb-0(data-aos="fade-down") Las bases de datos NoSQL representan una solución moderna y eficiente para el manejo de grandes volúmenes de información no estructurada, ofreciendo flexibilidad, escalabilidad y alto rendimiento. Su correcta implementación permite complementar los sistemas tradicionales, adaptándose a las necesidades de aplicaciones actuales que requieren procesamiento dinámico y distribuido de datos.
 </template>
 

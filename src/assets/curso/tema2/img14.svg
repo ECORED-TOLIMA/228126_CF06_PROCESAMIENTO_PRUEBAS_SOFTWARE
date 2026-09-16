@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="292" height="218" viewBox="0 0 292 218">
   <g id="Grupo_1185749" data-name="Grupo 1185749" transform="translate(-913.711 -3754)">
-    <rect id="Rectángulo_458825" data-name="Rectángulo 458825" width="292" height="218" transform="translate(913.711 3754)" fill="#fff7df"/>
-    <ellipse id="Elipse_13714" data-name="Elipse 13714" cx="100" cy="33.5" rx="100" ry="33.5" transform="translate(955.711 3890)" fill="#eee3c7"/>
+    <rect id="Rectángulo_458825" data-name="Rectángulo 458825" width="292" height="218" transform="translate(913.711 3754)" fill="#9ecfff"/>
+    <path id="Trazado_1032960" data-name="Trazado 1032960" d="M100,0c55.228,0,100,15,100,33.5S155.228,67,100,67,0,52,0,33.5,44.772,0,100,0Z" transform="translate(955.711 3890)" fill="#86b9ea"/>
     <g id="Grupo_1185748" data-name="Grupo 1185748" transform="translate(973.711 3770)">
       <g id="Grupo_1185725" data-name="Grupo 1185725">
         <g id="Grupo_1185724" data-name="Grupo 1185724">

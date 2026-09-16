@@ -5,7 +5,7 @@
     </clipPath>
   </defs>
   <g id="Grupo_1186038" data-name="Grupo 1186038" transform="translate(-186 -4248)">
-    <path id="Rectángulo_459086" data-name="Rectángulo 459086" d="M6,0H6A285,285,0,0,1,291,285v27a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(186 4248)" fill="#dfefff"/>
+    <path id="Trazado_1276826" data-name="Trazado 1276826" d="M6,0C163.4,0,291,127.6,291,285v27a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(186 4248)" fill="#dfefff"/>
     <g id="Grupo_1186037" data-name="Grupo 1186037" transform="translate(218.769 4248)">
       <g id="Grupo_1186036" data-name="Grupo 1186036" clip-path="url(#clip-path)">
         <line id="Línea_3253" data-name="Línea 3253" y2="142.549" transform="translate(34.195 167.764)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.533"/>

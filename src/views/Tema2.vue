@@ -7,7 +7,7 @@
         span 2
       h1 Lenguaje estructurado de consulta (SQL)
     p.mb-4(data-aos="fade-down") El lenguaje estructurado de consulta, conocido como SQL (Structured Query Language), constituye el estándar más utilizado para la gestión y manipulación de bases de datos relacionales. Su importancia radica en la capacidad de permitir la interacción directa con los datos, facilitando su definición, consulta, actualización y control dentro de un sistema de gestión de bases de datos.
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#19538D !important")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#D5AAFF !important")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img01.jpg')})`}"
       )
@@ -65,16 +65,16 @@
         .cajon.C05.p-4.h-100.w-100
           ul.lista-ul--color.mb-4(data-aos="fade-down")
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>DDL</b>: Lenguaje de definición de datos.
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>DML</b> : Lenguaje de manipulación de datos.
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>DCL</b>: Lenguaje de control de datos.
             li.mb-0
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>TCL</b>: Lenguaje de control de transacciones.
       .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
@@ -89,16 +89,16 @@
         .row.justify-content-center.align-items-center
           .col-lg-9.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
             TabsA.color-acento-botones(data-aos="zoom-in")
-              .tarjeta.tarjeta--C09.p-4(titulo="1986 – SQL-86")
+              .tarjeta.p-4(titulo="1986 – SQL-86")
                 .row.justify-content-center
                   p.mb-0 Corresponde a la primera versión oficial del lenguaje SQL, estandarizada para establecer una base común en la gestión de bases de datos relacionales. Definió las instrucciones fundamentales para la creación de estructuras y la manipulación básica de datos.                  
-              .tarjeta.tarjeta--C09.p-4(titulo="1992 – SQL-92")
+              .tarjeta.p-4(titulo="1992 – SQL-92")
                 .row.justify-content-center
                   p.mb-0 Representó una ampliación importante del estándar inicial, incorporando mejoras sustanciales en las consultas. Se fortalecieron las cláusulas de selección, filtrado y combinación de tablas, lo que permitió consultas más precisas y eficientes.                   
-              .tarjeta.tarjeta--C09.p-4(titulo="1999 – SQL: 1999")
+              .tarjeta.p-4(titulo="1999 – SQL: 1999")
                 .row.justify-content-center
                   p.mb-0 Introdujo características avanzadas como el soporte para programación orientada a objetos. Esto permitió el uso de tipos de datos definidos por el usuario, procedimientos almacenados y una mayor complejidad en la lógica de las bases de datos.        
-              .tarjeta.tarjeta--C09.p-4(titulo="2003 – SQL: 2003")
+              .tarjeta.p-4(titulo="2003 – SQL: 2003")
                 .row.justify-content-center
                   p.mb-0 Añadió funciones analíticas que facilitaron el análisis de grandes volúmenes de datos. Estas funciones permitieron realizar cálculos avanzados, agregaciones y análisis de tendencias directamente desde las consultas SQL.
           .col-lg-3.col-sm-4.col-10.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
@@ -140,7 +140,7 @@
                     p.mb-0 <b>FLOAT</b>: permite números con decimales de precisión variable.
             .col-lg-5.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema2/img10.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/tema2/img10.png', alt='Imagen decorativa')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-7.order-lg-2.order-2
               h4.mb-4 Datos de texto
@@ -158,7 +158,7 @@
                     p.mb-0 <b>TEXT</b>: almacena cadenas de texto extensas. 
             .col-lg-5.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema2/img11.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/tema2/img11.png', alt='Imagen decorativa')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-7.order-lg-2.order-2
               h4.mb-4 Datos de fecha y hora:
@@ -176,7 +176,7 @@
                     p.mb-0 <b>DATETIME</b>: combina fecha y hora en un solo valor.
             .col-lg-5.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema2/img12.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/tema2/img12.png', alt='Imagen decorativa')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-7.order-lg-2.order-2
               h4.mb-4 Datos booleanos:
@@ -188,7 +188,7 @@
                     p.mb-0 <b>BOOLEAN</b>: admite valores verdadero o falso.
             .col-lg-5.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema2/img13.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/tema2/img13.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-4
       .col-lg-9.col-12
         .tarjeta.tarjeta--C05.p-4.mb-0
@@ -209,19 +209,19 @@
         .cajon.C05.p-4.h-100.w-100
           ul.lista-ul--color.mb-4(data-aos="fade-down")
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>NOT NULL</b>: impide valores nulos.
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>UNIQUE</b>: evita duplicados.
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>PRIMARY KEY</b>: identifica registros únicos.
             li.mb-4
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>FOREIGN KEY</b>: establece relaciones entre tablas.
             li.mb-0
-              i.fas.fa-cloud-arrow-down
+              i.fas.fa-file-code
               p.mb-0 <b>CHECK</b>: valida condiciones específicas.
       .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure

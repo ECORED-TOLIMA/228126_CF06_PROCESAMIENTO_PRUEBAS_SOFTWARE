@@ -2,18 +2,27 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 30%
-    right: 80%
+    top: 12%
+    right: 74%
+
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 77%
-    right: 80%
+      animation: rotate1 2.8s ease-in-out infinite alternate
+      position: absolute
+      top: 70%
+      right: 10%
+
   &-3
-    animation: float1 2.1s ease-in-out infinite alternate
-    position: absolute
-    top: 60%
-    right: 12%
+      animation: rotate1 1.8s ease-in-out infinite alternate
+      position: absolute
+      top: 80%
+      right: 10%
+
+@keyframes rotate1
+  from
+    transform: rotate(0deg)
+
+  to
+    transform: rotate(360deg)
 
 @keyframes float1
   0%
@@ -54,9 +63,9 @@ figcaption
   font-weight: normal
 //- Modulo cajones
 .cajon.C01
-  background-color: #DFEFFF
+  background-color: #F1E2FF
 .cajon.C02
-  background-color: #A4E7F0
+  background-color: #7DBFFF
 .cajon.C03
   background-color: #FFF7DF
 .cajon.C04
@@ -64,11 +73,11 @@ figcaption
 .cajon.C05
   background-color: #DFEFFF
 .cajon.C06
-  background-color: #EFE8E8
+  background-color: #F9E7E7
 .cajon.C07
   background-color: #9ED1FF
 .cajon.C08
-  background-color: #12263F
+  background-color: #110628
   p 
     color: $white
 .cajon.C09
@@ -77,11 +86,13 @@ figcaption
   background-color: #F3F9FF
 .cajon.C11
   background-color: #D5F4F8
+.cajon.C12
+  background-color: #9ECFFF
 //- Modulo tarjetas
 .tarjeta--tabla
-  background-color: #DFEFFF
+  background-color: #F1E2FF
   &:nth-child(even)
-    background-color: #D5F4F8
+    background-color: #DFEFFF
 .tarjeta--C01
   background-color: #CFE8FF
 .tarjeta--C02
@@ -89,20 +100,20 @@ figcaption
 .tarjeta--C03
   background-color: #EFE8E8
 .tarjeta--C04
-  background-color: #D5F4F8
+  background-color: #DFEFFF
 .tarjeta--C05
-  background-color: #9ECFFF
+  background-color: #D5AAFF
   border-radius: 35px
 .tarjeta--C06
   background-color: #FFE79E 
 .tarjeta--C07
-  background-color: #DFEFFF
+  background-color: #F1E2FF
 .tarjeta--C08
   background-color: #FFEBBE
 .tarjeta--C09
-  background-color: #D5F4F8
+  background-color: #DFEFFF
 .tarjeta--C10
-  background-color: #EEF1F7
+  background-color: #FFFDCE
 .tarjeta-numerada__numero
   background-color: #FFB851
 .tarjeta--C11
@@ -288,7 +299,7 @@ thead
   &.crd--grayGrad
     padding: 2.4rem
     height: 100%
-    background-color: #EFE8E8
+    background-color: #F9E7E7
     h4, p
       color: #000 !important
     // h5
@@ -300,7 +311,7 @@ thead
     border-radius: 15px    
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
     &:hover      
-      background-color: #9ECFFF  
+      background-color: #F1E2FF  
       background-size: cover
       h4, p
         color: $black !important
@@ -405,18 +416,18 @@ ol.lista-ol--cuadro.lista-ol--separador, ol.lista-ol--cuadro.lista-ol
 .linea-tiempo-d.color-acento-botones.especial
   .linea-tiempo-d__item--selected
     .linea-tiempo-d__item__content
-      background-color: #D5F4F8 !important 
+      background-color: #DFEFFF !important 
     .tarjeta.tarjeta--gris
-      background-color: #4DD0E1
+      background-color: #9ECFFF
       span
         color: $black
   .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
     span
       color: #000 !important
   .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
-    background-color: #EFE8E8
+    background-color: #F9E7E7
 .tarjeta.tarjeta--gris
-  background-color: #AE0000
+  background-color: #A10000
 .linea-tiempo-d__item__number
   span
     color: #fff
@@ -486,3 +497,6 @@ i.fas.fa-circle.item
       width: 100%
       margin-left: 0 !important
       margin-right: 0 !important
+
+.tabs-a__content-item--active
+  background-color: #DFEFFF !important

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
   <g id="Grupo_1185646" data-name="Grupo 1185646" transform="translate(-1249.711 -4849)">
-    <rect id="Rectángulo_458792" data-name="Rectángulo 458792" width="84" height="84" rx="42" transform="translate(1249.711 4849)" fill="#1e535a"/>
+    <path id="Trazado_1032957" data-name="Trazado 1032957" d="M42,0A42,42,0,1,1,0,42,42,42,0,0,1,42,0Z" transform="translate(1249.711 4849)" fill="#19538d"/>
     <g id="software_1_" data-name="software (1)" transform="translate(1266.143 4854.139)">
       <path id="Línea_3383" data-name="Línea 3383" d="M48.139-12H0v-3h48.14Z" transform="translate(1.498 38.854)" fill="#fff"/>
       <path id="Línea_3384" data-name="Línea 3384" d="M17.079-12H0v-3H17.079Z" transform="translate(6.492 44.846)" fill="#fff"/>

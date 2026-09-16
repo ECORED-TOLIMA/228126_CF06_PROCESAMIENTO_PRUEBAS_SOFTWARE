@@ -178,28 +178,28 @@
         .crd01.crd--grayGrad
           .bottomCircle01.mb-4
             figure
-              img(src="@/assets/curso/tema1/img16.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema1/img16.svg", style="width: 55px; height: 55px;").img80.m-auto
           h4.text-center Realizar actualizaciones periódicas
           p Consiste en mantener el gestor de bases de datos y sus componentes en versiones actualizadas, corrigiendo vulnerabilidades, mejorando el rendimiento y asegurando compatibilidad con nuevas funcionalidades.
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-4
             figure
-              img(src="@/assets/curso/tema1/img17.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema1/img17.svg", style="width: 55px; height: 55px;").img80.m-auto
           h4.text-center Configurar copias de seguridad automáticas
           p Implica programar respaldos regulares de la información para prevenir pérdidas de datos ante fallos del sistema, errores humanos o incidentes de seguridad.
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-4
             figure
-              img(src="@/assets/curso/tema1/img18.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema1/img18.svg", style="width: 55px; height: 55px;").img80.m-auto
           h4.text-center Monitorear el rendimiento del sistema
           p Permite supervisar el uso de recursos, tiempos de respuesta y carga del servidor, facilitando la detección temprana de problemas y la optimización del desempeño.
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-4
             figure
-              img(src="@/assets/curso/tema1/img19.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema1/img19.svg", style="width: 55px; height: 55px;").img80.m-auto
           h4.text-center Aplicar políticas de acceso restringido
           p Busca limitar el acceso a la base de datos según roles y responsabilidades, garantizando que solo usuarios autorizados puedan consultar o modificar la información.
     p.mb-4(data-aos="fade-down") Basado en lo explicado en esta temática, la siguiente imagen presenta una visión general de la arquitectura de un sistema de gestión de bases de datos, mostrando la interacción entre usuarios o aplicaciones y el servidor de base de datos. En ella se comparan los enfoques relacional (RDBMS) y NoSQL, junto con elementos clave como usuarios, roles, puertos de conexión, seguridad y tipos de almacenamiento de la información:

@@ -10,7 +10,7 @@
     .row.BG01.justify-content-center.px-md-5.px-4
       p(data-aos="fade-down") El componente formativo orientado a la gestión de bases de datos constituye un pilar fundamental dentro del desarrollo de soluciones informáticas modernas, debido a la creciente necesidad de almacenar, procesar y analizar grandes volúmenes de información de manera eficiente, segura y estructurada. En este contexto, el manejo adecuado de gestores de bases de datos, tanto relacionales como no relacionales, se convierte en una competencia esencial para el desarrollo de sistemas robustos y escalables.
       p.mb-4(data-aos="fade-down") En primera instancia, se abordan los fundamentos relacionados con los gestores de bases de datos y la configuración del entorno, permitiendo comprender las características, diferencias y aplicaciones de los sistemas relacionales y NoSQL. Asimismo, se profundiza en los gestores transaccionales, destacando su importancia en entornos donde la integridad y consistencia de la información son críticas. Este componente también contempla los procesos de instalación y configuración, facilitando la preparación de entornos de trabajo adecuados para la administración de datos.
-      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#19538D !important")
+      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color:#D5AAFF !important")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/intro/img01.jpg')})`}"
         )

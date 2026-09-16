@@ -468,7 +468,7 @@
         p.mb-4(data-aos="fade-down") Las funciones básicas de agregación operan sobre un conjunto de registros y devuelven un único valor como resultado, calculado a partir de los datos contenidos en una columna específica.
         .row.justify-content-center.mb-0(data-aos="flip-up")
           .col-lg-8.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
-            .cajon.C01.px-4.py-2.mb-0
+            .cajon.C12.px-4.py-2.mb-0
               ul.lista-ul--color
                 li.mb-0
                   i.fas.fa-circle.item(style="top: 8px;")
@@ -571,7 +571,7 @@
         .row.justify-content-center
           .col.col-auto.col-lg-3
             figure
-              img(src='@/assets/curso/tema3/img10.jpg', alt='Imagen decorativa')
+              img(src='@/assets/curso/tema3/img10.png', alt='Imagen decorativa')
           .col.col-auto.col-lg-9
             p.mb-2(data-aos="fade-down") Importante:
             ul.lista-ul--color.mb-2
