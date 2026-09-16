@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <g id="Grupo_1188509" data-name="Grupo 1188509" transform="translate(-185.739 -9253.217)">
+    <g id="Grupo_1188415" data-name="Grupo 1188415" transform="translate(185.738 9253.217)">
+      <path id="Trazado_1032951" data-name="Trazado 1032951" d="M49,0A49,49,0,1,1,0,49,49,49,0,0,1,49,0Z" transform="translate(98 98) rotate(180)" fill="#1e535a"/>
+      <circle id="Elipse_13891" data-name="Elipse 13891" cx="40.698" cy="40.698" r="40.698" transform="translate(89.397 89.95) rotate(180)" fill="#fff"/>
+      <g id="Grupo_1188514" data-name="Grupo 1188514" transform="translate(-909.711 -3583.413)">
+        <g id="Grupo_1186576" data-name="Grupo 1186576" transform="translate(0 235.413)">
+          <rect id="Rectángulo_458972" data-name="Rectángulo 458972" width="10" height="40" transform="translate(952.711 3377)" fill="#19538d"/>
+          <rect id="Rectángulo_458973" data-name="Rectángulo 458973" width="7" height="25" transform="translate(970.711 3377) rotate(90)" fill="#19538d"/>
+        </g>
+        <rect id="Rectángulo_459855" data-name="Rectángulo 459855" width="7" height="25" transform="translate(970.711 3645.413) rotate(90)" fill="#19538d"/>
+      </g>
+    </g>
+  </g>
+</svg>
