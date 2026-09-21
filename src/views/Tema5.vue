@@ -157,7 +157,7 @@
                 img(src='@/assets/curso/tema5/img10.jpg', alt='')
     .row.justify-content-center.mb-0
       .col-lg-8.col-12
-        .tarjeta.tarjeta--C02.p-4.mb-0(style="border-radius:36px !important")
+        .tarjeta.tarjeta--C15.p-4.mb-0(style="border-radius:36px !important")
           p.text-center.mb-0(data-aos="fade-down") Estas pruebas son fundamentales antes de pasar a ambientes productivos.
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

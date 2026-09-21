@@ -173,7 +173,7 @@
               img(src='@/assets/curso/tema4/img10.svg', alt='Imagen decorativa')
     .row.justify-content-center.mb-0
       .col-lg-9.col-12
-        .tarjeta.tarjeta--C02.p-4.mb-0(style="border-radius:36px !important")
+        .tarjeta.tarjeta--C15.p-4.mb-0(style="border-radius:36px !important")
           p.text-center.mb-0(data-aos="fade-down") Una correcta instalación y configuración de bases de datos NoSQL contribuye a garantizar estabilidad, rendimiento y seguridad en los sistemas de información.
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

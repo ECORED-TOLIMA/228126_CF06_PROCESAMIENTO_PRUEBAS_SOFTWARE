@@ -172,7 +172,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/FK6pTK_koc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-4(data-aos="fade-down") Además del procedimiento anterior, es recomendable implementar buenas prácticas como:
+    p.mb-4.text-center(data-aos="fade-down") Además del procedimiento anterior, es recomendable implementar buenas prácticas como:
     .row.justify-content-center(data-aos="flip-down")
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad

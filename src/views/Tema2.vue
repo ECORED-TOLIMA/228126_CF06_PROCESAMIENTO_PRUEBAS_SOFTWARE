@@ -191,7 +191,7 @@
                 img(src='@/assets/curso/tema2/img13.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-4
       .col-lg-9.col-12
-        .tarjeta.tarjeta--C05.p-4.mb-0
+        .tarjeta.tarjeta--C15.p-4.mb-0
           p.text-center.mb-0(data-aos="fade-down") La selección incorrecta del tipo de dato puede afectar el rendimiento y la integridad de la información.
     .row.justify-content-center.mb-4
       .col.col-12
