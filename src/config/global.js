@@ -194,7 +194,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/228126_CF06_CFA.zip',
+        download: 'downloads/228126_CF06_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -330,8 +330,8 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Viviana Esperanza Herrera Quiñonez',
-          cargo: 'Evaluadora instruccional',
+          nombre: 'Sebastian Trujillo Afanador',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -345,13 +345,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jose Yobani Penagos Mora',
+          nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
